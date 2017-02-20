@@ -1,5 +1,7 @@
 # exponent-auth0-instagram-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/graphcool-examples/exponent-auth0-instagram-example.svg)](https://greenkeeper.io/)
+
 This repository contains an Instagram clone using [**Exponent (React Native)**](https://docs.getexponent.com/versions/v14.0.0/index.html) and [**auth0**](https://auth0.com/) as an authentication provider. 
 
 
